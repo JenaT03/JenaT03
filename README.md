@@ -33,6 +33,6 @@
 
 <p> 
 <a href = "https://www.coursera.org/account/accomplishments/professional-cert/HTE6HYM282K0"> 
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HTE6HYM282K0/CERTIFICATE_LANDING_PAGE~HTE6HYM282K0.jpeg" width="100%">
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HTE6HYM282K0/CERTIFICATE_LANDING_PAGE~HTE6HYM282K0.jpeg" width="80%">
 </a>
 </p>
